@@ -1,4 +1,4 @@
-# Hola, soy [Fernando Barrio MOreno-Ortiz] 👋
+# Hola, soy Fernando Barrio Moreno-Ortiz👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y la programación. Siempre estoy aprendiendo y buscando nuevos desafíos. Aquí puedes ver algunos de mis proyectos y contribuciones. 
 
